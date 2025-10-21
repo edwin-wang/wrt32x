@@ -1,4 +1,4 @@
-1. Download firmware.bz and scp to /tmp
+1. Download [firmware.zip](https://github.com/edwin-wang/wrt32x/releases/download/stock/firmware.zip) and scp to /tmp
 
 2. SSH to openwrt and check current boot partition
    ```fw_printenv -n boot_part```
